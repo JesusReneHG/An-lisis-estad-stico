@@ -1,1 +1,1 @@
-# An-lisis-estad-stico
+# Anlisis Estadstico
